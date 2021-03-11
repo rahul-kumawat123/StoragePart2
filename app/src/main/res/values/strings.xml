@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Storage Part 2</string>
+    <string name="add">ADD</string>
+    <string name="enter_contact_no_here">Enter Contact No. here</string>
+    <string name="enter_address_here">Enter address here</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="main_heading">Add Employee Data</string>
+</resources>
