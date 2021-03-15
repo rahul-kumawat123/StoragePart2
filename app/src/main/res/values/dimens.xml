@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_width">367dp</dimen>
+    <dimen name="tv_height">49dp</dimen>
+    <dimen name="et_name_width">237dp</dimen>
+    <dimen name="et_name_height">44dp</dimen>
+    <dimen name="et_address_width">238dp</dimen>
+    <dimen name="et_address_height">43dp</dimen>
+    <dimen name="et_contact_width">238dp</dimen>
+    <dimen name="et_contact_height">43dp</dimen>
+    <dimen name="linear_layout_width">379dp</dimen>
+    <dimen name="linear_layout_height">430dp</dimen>
+    <dimen name="cv_width">406dp</dimen>
+    <dimen name="cv_height">130dp</dimen>
+    <dimen name="tv_name_width">161dp</dimen>
+    <dimen name="tv_name_height">28dp</dimen>
+    <dimen name="tv_address_width">159dp</dimen>
+    <dimen name="tv_address_height">30dp</dimen>
+    <dimen name="tv_contact_width">160dp</dimen>
+    <dimen name="tv_contact_height">25dp</dimen>
+    <dimen name="edit_btn_width">34dp</dimen>
+    <dimen name="edit_btn_height">32dp</dimen>
+    <dimen name="delete_btn_width">35dp</dimen>
+    <dimen name="delete_btn_height">34dp</dimen>
+</resources>
